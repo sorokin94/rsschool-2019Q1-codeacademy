@@ -3,4 +3,4 @@
 Aleksey Sorokin
 
 
-[HTML CSS Basics]: [https://www.codecademy.com/users/teraNinja99772/achievements]
+HTML CSS Basics: https://www.codecademy.com/users/teraNinja99772/achievements
